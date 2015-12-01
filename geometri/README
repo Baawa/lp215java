@@ -1,0 +1,26 @@
+---Namn och Grupp---
+37 Albin Bååw & Kristoffer Ek
+
+----Filer----
+AbstractForm.java
+Circle.Java
+GeometricalForm.java
+IllegalPositionException.java
+Line.java
+Oval.java
+Point.java
+Rectangle.java
+Square.java
+Doc-mapp
+---Sub-kommandon---
+
+---Notering----
+Line-konströktören är åtgärdad.
+Alla getArea()- och getPerimeter()-metoder returnerar nu 0.
+
+Felen berodde på att vi trodde att man inte skulle implementera någon 
+koden i den här delen av labben, så vi lät super.getArea() osv. stå 
+kvar, bara för att undvika kompileringsfel.
+---Svar---
+
+---Referenser----
